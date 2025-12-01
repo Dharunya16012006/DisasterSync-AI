@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DisasterSync AI",
+  "description": "A multi-agent emergency response coordinator powered by Gemini, analyzing Kaggle 911 calls and disaster messages to optimize rescue operations.",
+  "requestFramePermissions": []
+}
